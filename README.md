@@ -2,7 +2,7 @@
 This project includes SQL-based analytical solutions covering trend analysis, cumulative insights, performance tracking, segmentation, and percentage-based (part-to-whole) evaluations.
 
 ---
-# Licence
+# License
 This project is licensed under the MLT License. You are free to use, modify, and share this project with proper attribution.
 
 # About Us
